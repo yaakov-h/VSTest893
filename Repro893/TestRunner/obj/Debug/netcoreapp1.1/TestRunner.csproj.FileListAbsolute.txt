@@ -1,0 +1,14 @@
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\bin\Debug\netcoreapp1.1\TestRunner.deps.json
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\bin\Debug\netcoreapp1.1\TestRunner.runtimeconfig.json
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\bin\Debug\netcoreapp1.1\TestRunner.runtimeconfig.dev.json
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\bin\Debug\netcoreapp1.1\TestRunner.dll
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\bin\Debug\netcoreapp1.1\TestRunner.pdb
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\obj\Debug\netcoreapp1.1\TestRunner.AssemblyInfo.cs
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\obj\Debug\netcoreapp1.1\TestRunner.dll
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\obj\Debug\netcoreapp1.1\TestRunner.pdb
+C:\temp\VSTestRepro\VSTest893\Repro893\TestRunner\obj\Debug\netcoreapp1.1\TestRunner.csprojResolveAssemblyReference.cache
+C:\temp\VSTestRepro\VSTest893\bin\netcoreapp1.1\TestRunner.deps.json
+C:\temp\VSTestRepro\VSTest893\bin\netcoreapp1.1\TestRunner.runtimeconfig.json
+C:\temp\VSTestRepro\VSTest893\bin\netcoreapp1.1\TestRunner.runtimeconfig.dev.json
+C:\temp\VSTestRepro\VSTest893\bin\netcoreapp1.1\TestRunner.dll
+C:\temp\VSTestRepro\VSTest893\bin\netcoreapp1.1\TestRunner.pdb
