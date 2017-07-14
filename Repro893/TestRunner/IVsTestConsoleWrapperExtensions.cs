@@ -27,7 +27,7 @@ namespace TestRunner
 
 			public void HandleDiscoveredTests(IEnumerable<TestCase> discoveredTestCases)
 			{
-				Console.WriteLine("HandleDiscoveredTests([{0} items]", discoveredTestCases.Count());
+				Console.WriteLine("HandleDiscoveredTests([{0} items])", discoveredTestCases.Count());
 				tests.AddRange(discoveredTestCases);
 			}
 
@@ -35,12 +35,12 @@ namespace TestRunner
 			{
 				if (lastChunk != null)
 				{
-					Console.WriteLine("HandleDiscoveryCompleted(totalTests: {0}, lastChunk: [{1} items], isAborted: {2}", totalTests, lastChunk.Count(), isAborted);
+					Console.WriteLine("HandleDiscoveryCompleted(totalTests: {0}, lastChunk: [{1} items], isAborted: {2})", totalTests, lastChunk.Count(), isAborted);
 					tests.AddRange(lastChunk);
 				}
 				else
 				{
-					Console.WriteLine("HandleDiscoveryCompleted(totalTests: {0}, lastChunk: null, isAborted: {1}", totalTests, isAborted);
+					Console.WriteLine("HandleDiscoveryCompleted(totalTests: {0}, lastChunk: null, isAborted: {1})", totalTests, isAborted);
 				}
 
 				if (!isAborted)
