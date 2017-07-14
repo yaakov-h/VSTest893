@@ -36,6 +36,7 @@ namespace TestRunner
 				if (lastChunk != null)
 				{
 					Console.WriteLine("HandleDiscoveryCompleted(totalTests: {0}, lastChunk: [{1} items], isAborted: {2}", totalTests, lastChunk.Count(), isAborted);
+					tests.AddRange(lastChunk);
 				}
 				else
 				{
